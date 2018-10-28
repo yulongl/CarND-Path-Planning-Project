@@ -25,10 +25,11 @@ Codes compiles. Everything was made into main.cpp. spline.h included. Nothing ch
 * The car stays in its lane, except for the time between changing lanes
 * The car is able to change lanes (see demo)  
 
-### Reflection  
+#### Reflection  
 
 The ego vehicle will monitor vehicles in front of it to avoid collision. Once slowed down, it will check neighbor lane(s) if it's safe to change lane. If yes, it will start changing lane. If the ego vehicle is at lane 0, it will also check if lane 2 is empty and will change to lane 2 if yes. Same thing for lane 2 to lane 0. Trajectory generation follows the project walkthrough.    
 
+--- 
 
 
 ### Simulator
