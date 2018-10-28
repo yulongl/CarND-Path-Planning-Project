@@ -5,10 +5,25 @@ Self-Driving Car Engineer Nanodegree Program
 By Yulong Li  
 
 ### Demo  
+
 ![demo1](https://github.com/yulongl/CarND-Path-Planning-Project/blob/master/pic/demo1.gif)  
   
 ![demo2](https://github.com/yulongl/CarND-Path-Planning-Project/blob/master/pic/demo2.gif)  
 
+### Rubric Points  
+
+#### Compilation  
+Codes compiles. Everything was made into main.cpp. spline.h included. Nothing changed to CMakeLists.txt.  
+
+#### Valid Trajectories  
+![B17](https://github.com/yulongl/CarND-Path-Planning-Project/blob/master/pic/B17.JPG)  
+
+* The car is able to drive at least 17.23 miles without incident
+* Reference vehicle speed is set to 49.5mph, below 50mph speed limit
+* Max Acceleration and Jerk are not Exceeded
+* Car does not have collisions
+* The car stays in its lane, except for the time between changing lanes
+* The car is able to change lanes (see demo)  
 
 
 ### Simulator
