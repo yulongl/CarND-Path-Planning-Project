@@ -5,7 +5,9 @@ Self-Driving Car Engineer Nanodegree Program
 By Yulong Li  
 
 ### Demo  
-
+![demo1](https://github.com/yulongl/CarND-Path-Planning-Project/blob/master/pic/demo1.gif)  
+  
+![demo2](https://github.com/yulongl/CarND-Path-Planning-Project/blob/master/pic/demo2.gif)  
 
 
 
